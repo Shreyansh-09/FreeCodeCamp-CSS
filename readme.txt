@@ -14,3 +14,4 @@ class, id selector, (h1,h2) selector, (h1 h2) selector, main, body, *, html, inh
 
 **Chapter 3: Colors**
 
+coolors (website), explore color pallate or color wheel, different parameter to put color like rgb, rgba, hex code, hsl etc.
